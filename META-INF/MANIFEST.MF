@@ -1,0 +1,255 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/font/default.png
+SHA1-Digest: IZzGydw6r+76VmRFE5lMRiYG+ao=
+
+Name: assets/item/chest.png
+SHA1-Digest: df+yLZd1MODkA/B5LP/K3+Gsx8M=
+
+Name: assets/gui/background.png
+SHA1-Digest: 3cMhXJCHIuZKuiHuVNilEWpTmbY=
+
+Name: assets/item/arrows.png
+SHA1-Digest: moAHRC2YmEi5jR+688Gvp1bSdS8=
+
+Name: res/drawable/cancel_0_1.png
+SHA1-Digest: CcGm545ozW2VluOrgSt+XQAsWDU=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 9rY9SD2W8S5k2uJfPeNFH6MRNgI=
+
+Name: assets/environment/clouds.png
+SHA1-Digest: NvenTxt3YQraKA3dNCMei/kLTlo=
+
+Name: res/drawable/worldname_3.png
+SHA1-Digest: towUTXdH2cnZhEvSaUY5QGolijU=
+
+Name: assets/gui/bg32.png
+SHA1-Digest: Tj5g6xm/Asnn8FmrzIyNN26+r8w=
+
+Name: assets/armor/gold_1.png
+SHA1-Digest: l+li03RiLjA7BP6eKgq0nSRvEi8=
+
+Name: res/drawable/mcpe_logo_512.png
+SHA1-Digest: zr4g/+w6Pq8TOORP2vAREeO8D4w=
+
+Name: res/layout/create_world_screen.xml
+SHA1-Digest: tqsXGuI/JhDqE85MNqNb5PpbxnA=
+
+Name: assets/gui/gui_blocks - Copy.png
+SHA1-Digest: FI3gxPSpcVgcON3y92oMfqJyjKQ=
+
+Name: assets/mob/zombie.png
+SHA1-Digest: 9X7t67ncrJqRMkdaJdhsTGvL6WA=
+
+Name: assets/gui/default_world.png
+SHA1-Digest: 8nExk2Ps1XPQh957gGs3w2UiFnU=
+
+Name: assets/gui/touchgui.png
+SHA1-Digest: K9rn/IVPN2jPkwFkjymYbuczmgI=
+
+Name: assets/item/camera.png
+SHA1-Digest: sD9jKqRKiH9Hm+765ZyxiXLGAEM=
+
+Name: assets/gui/badge/minecon140.png
+SHA1-Digest: XnBcA0j0XPbZ8zF96wcY4yey654=
+
+Name: res/drawable/btngamemode.xml
+SHA1-Digest: Xg/q3HytvhLhTpFsPg4lcPo5t2c=
+
+Name: res/drawable/create_1_3.png
+SHA1-Digest: j70wefbePk+dKgQ7chkjn7H78To=
+
+Name: assets/armor/chain_1.png
+SHA1-Digest: kjVR+O9K/uHjjos6pVmhxzKWvHI=
+
+Name: assets/armor/iron_1.png
+SHA1-Digest: cTTpRCYFt3TCDAyDWDcuKuOCdF8=
+
+Name: assets/font/default8.png
+SHA1-Digest: gJ9K4Ooe9d4R+QnZw2FdQ7Nqhts=
+
+Name: res/drawable/creative_3.png
+SHA1-Digest: CMgM7wiMYWuGXxrGaRi4bQvPAdc=
+
+Name: assets/gui/title.png
+SHA1-Digest: 1idLTUb1dXnnjuyLBt7b/sdFG5A=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: Xv3kx0SXZOkBLrCdvmBpb2CKJOQ=
+
+Name: assets/mob/spider.png
+SHA1-Digest: VfPrCa+PWJ8sbbk6togxQiGTDZo=
+
+Name: res/drawable/survival_3.png
+SHA1-Digest: iZhIz6FgQ4Jd3Zh0ANDSdL4YYe0=
+
+Name: res/drawable/worldname.png
+SHA1-Digest: mGWnGOuZZq6XPIZKLT2KudHqqys=
+
+Name: res/layout/create_new_world.xml
+SHA1-Digest: Nh0l8AHrCM5zml+umlltiaOOkE8=
+
+Name: resources.arsc
+SHA1-Digest: UxEOd0AL+avqXj4OihstCatM/cc=
+
+Name: res/drawable-ldpi-v4/icon_demo.png
+SHA1-Digest: OEwEkqdKwPa/VM9+rnwpd7IvZZQ=
+
+Name: res/drawable/cancel_1_3.png
+SHA1-Digest: klN4z9gIRTKD0+ofWMdGS8ctwQw=
+
+Name: assets/mob/pig.png
+SHA1-Digest: 5MaJX/SObOT/sfNF5KgmTS8RMN8=
+
+Name: res/drawable/mcpe_ikon_1024nn.png
+SHA1-Digest: wVLNHyUl/M77gAoEzeSCGBBWrmU=
+
+Name: assets/gui/itemframe.png
+SHA1-Digest: 6PxPdu8SHR6+lQyxZ8EsfhmRV64=
+
+Name: assets/mob/skeleton.png
+SHA1-Digest: 3pt7XEpvzlc2/peM8zcFO0VKYT4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: IKhRmjMsx3DeRn3qatyaM++4rgo=
+
+Name: assets/armor/cloth_2.png
+SHA1-Digest: rLjWgIiUGP7Y6od62FZqqeB/vaA=
+
+Name: res/drawable/create_1_1.png
+SHA1-Digest: V7wNfMjYKGvYxNEwLdzYR3U1RUI=
+
+Name: assets/mob/char.png
+SHA1-Digest: 9fkV0U8Uc0ecQ5YqOnJUqbGgNGA=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: RTIwSBU77iIW2IXNwo2qtyvrqqA=
+
+Name: assets/armor/diamond_2.png
+SHA1-Digest: kT7xzmEkk35t40yRefv8ZLtnrwM=
+
+Name: assets/lang/en_US.lang
+SHA1-Digest: r7k+keGr0EdKgx/+QNoAB8/02P4=
+
+Name: assets/mob/creeper.png
+SHA1-Digest: 3HtuKTBjFiOMuk8NXG6vQCQtMVA=
+
+Name: assets/mob/sheep_fur.png
+SHA1-Digest: 3SGR57FUoCiQ19/lrXdoVnYg//M=
+
+Name: assets/particles.png
+SHA1-Digest: 8NqRqo2bQGat5vO8ZcAW3s0xoHo=
+
+Name: res/drawable/create_0_3.png
+SHA1-Digest: heIbbZLS4wl+cWAj4FZtN2lWS5w=
+
+Name: assets/gui/items.png
+SHA1-Digest: gN/UkTSOyGL/Ubf1r6G/GdV8Xvo=
+
+Name: lib/armeabi-v7a/libminecraftpe.so
+SHA1-Digest: 36q3olShmzL8N4xypVBZFgaaKhc=
+
+Name: assets/armor/chain_2.png
+SHA1-Digest: o82RYls52TnsQgTA0mgK+e6bfCo=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: fq4eWT3EDJl92It4T+gAxhaiE0M=
+
+Name: assets/mob/chicken.png
+SHA1-Digest: xxH+S0xuPfLFkqetSCvlhMz7pec=
+
+Name: assets/mob/cow.png
+SHA1-Digest: DB2Ehy9ppdDwc8cSUjCm1RvHZIE=
+
+Name: res/layout/mainmenu_options.xml
+SHA1-Digest: FIqsD8XqHdj5tI05rmZ8u1/B0ak=
+
+Name: assets/armor/iron_2.png
+SHA1-Digest: C4f8PZXXCONaefuQifGBJDzX5DU=
+
+Name: res/drawable-hdpi-v4/icon_demo.png
+SHA1-Digest: sNZDNCiIUkZsEjsOW7fCbuOMBO4=
+
+Name: assets/gui/gui.png
+SHA1-Digest: JTiY8pNF3yKi8ljIjlqjbWoz+Po=
+
+Name: res/drawable-mdpi-v4/icon_demo.png
+SHA1-Digest: oswXv86GqpmR3ZnyUx67SE6Xc9E=
+
+Name: assets/gui/spritesheet.png
+SHA1-Digest: P7PsgqdUfG6HgvLLL79r2LAD9SY=
+
+Name: res/drawable-xhdpi-v4/icon_demo.png
+SHA1-Digest: E05sfX4eeNxsccTmRz8gTEwWjMg=
+
+Name: res/drawable/cancel_1_1.png
+SHA1-Digest: hAKRAUVWiGdnhKKh3CIIwaISfBc=
+
+Name: assets/gui/icons.png
+SHA1-Digest: aeGnmUPb9SNbDwY9yk/qpqN3QyU=
+
+Name: res/drawable/btn_nw_cancel.xml
+SHA1-Digest: 0/FXPI5iewXaZ8gOey3cna7WDEw=
+
+Name: assets/gui/gui2.png
+SHA1-Digest: SzZ+u1llAaz7gORaPQur6gOrowo=
+
+Name: assets/mob/pigzombie.png
+SHA1-Digest: s1+CZHOQDAAI0ADwuLKSrB0ynrk=
+
+Name: res/drawable/create_0_1.png
+SHA1-Digest: Lo6GjQlc3sFnGtJsiDFNGFn/oiY=
+
+Name: res/layout/main.xml
+SHA1-Digest: C3pUqz9SHX7Yw+k2IO10BQHfUa8=
+
+Name: res/drawable/cancel_0_3.png
+SHA1-Digest: T3MJpbwUC3fEMe+KnAE6C+DsY9E=
+
+Name: res/drawable/btn_nw_create.xml
+SHA1-Digest: t/+acWqOrt1URL7v3kZZDjZxBKc=
+
+Name: assets/terrain.png
+SHA1-Digest: A2I1CTiOPlqSRof2aQW/pBnTh4I=
+
+Name: assets/armor/gold_2.png
+SHA1-Digest: vMsNeaaeai8J3wVArlXiGci7rIc=
+
+Name: assets/gui/gui_blocks.png
+SHA1-Digest: 2lcJQOoIGVSDOZqAROzWrfNUXQg=
+
+Name: assets/armor/diamond_1.png
+SHA1-Digest: Rsd1MWYxhXeKfeWKvHhl3FmsdbM=
+
+Name: assets/mob/sheep.png
+SHA1-Digest: JYzgQgsnqLEHbm/CShUcDVqSaYQ=
+
+Name: res/layout/rename_mp_world.xml
+SHA1-Digest: XHQZmgTp1s2MKS7Q0DA/+dFn6RI=
+
+Name: res/drawable/bgtiled.xml
+SHA1-Digest: cby2B3aJVBL33XS61iV4VaMTMHw=
+
+Name: assets/armor/cloth_1.png
+SHA1-Digest: qPyk7hlFpOIH4G+JjuhBwvgXLjw=
+
+Name: res/drawable/bg32.png
+SHA1-Digest: zDftF1LJfusFKNG0dGo83sI0ElU=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: BlGGS6GFeCjWF0hQRMnZ71QG2Aw=
+
+Name: res/drawable/iconx.png
+SHA1-Digest: zr4g/+w6Pq8TOORP2vAREeO8D4w=
+
+Name: assets/item/sign.png
+SHA1-Digest: DpIepeRBc7gFPtk3qQw3Rl4u1JE=
+
+Name: classes.dex
+SHA1-Digest: otxZzjfrG+UCix3J9ztWDqanOAM=
+
+Name: assets/art/kz.png
+SHA1-Digest: gftMU12RCrMczTF3skCVkGY7iDA=
+
